@@ -43,6 +43,10 @@ paginate = 5
         name = "about"
         url = "/about"
       [[languages.en.menu.main]]
+        identifier = "finance"
+        name = "finance"
+        url = "/finance"
+      [[languages.en.menu.main]]
         identifier = "fitness"
         name = "fitness"
         url = "/fitness"
