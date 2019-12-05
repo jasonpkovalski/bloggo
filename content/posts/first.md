@@ -2,6 +2,7 @@
 title: "first post"
 date: "2019-11-29"
 draft: true
+tags: ["tech", "programming"]
 ---
 
 ## Header 2

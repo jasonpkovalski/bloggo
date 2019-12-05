@@ -13,4 +13,4 @@ I gave up competitive **Hearthstone**, a children's card game, for **Super Smash
 
 I was a 74kg **Powerlifter** for a few years, but I've also tried Strongman and CrossFit. Now I just train for general fitness. I occasionally [post](https://www.instagram.com/jk1.618/) lifting videos when I'm feeling strong and/or big.
 
-Index funds are boring. I actively invest in individual stocks, and I have some of my money in cryptocurrencies too. I'm slowly working my way up to the 3 comma club.
+Index funds are boring. I actively invest in individual stocks, and I use Robinhood for my brokerage account. Let's both get a free [stock](https://join.robinhood.com/jasonk687). I'm slowly working my way up to the 3 comma club.
