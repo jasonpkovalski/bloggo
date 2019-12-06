@@ -2,15 +2,16 @@
 title: "about"
 ---
 
-I currently live in **Boston** with my girlfriend. ♥️
+**Korean** and **Polish**
 
-I'm first-generation American-born. Mom and Dad are immigrants from **Korea** and **Poland**, respectively. I'm also a first-generation college graduate. **Boston College** CSOM 2016.
+**Boston College** CSOM 2016.
 
-My first *real* job after college was at **Liberty Mutual Insurance** as a software developer. I left after 2.5 years to join **Salesforce** as a full-stack software engineer. I've worked at [other](https://www.linkedin.com/in/jasonkovalski) places too.
+Full-Stack Software Engineer at **Salesforce**
 
-I gave up competitive **Hearthstone**, a children's card game, for **Super Smash Bros.**, a children's fighting game. I mostly [tweet](https://twitter.com/grim_ssbu) about Smash, but I also talk about technology and programming.
+Currently living in **Boston** with my girlfriend 💜
 
+---
 
-I was a 74kg **Powerlifter** for a few years, but I've also tried Strongman and CrossFit. Now I just train for general fitness. I occasionally [post](https://www.instagram.com/jk1.618/) lifting videos when I'm feeling strong and/or big.
+I love technology, from shiny gadgets that I definitely don't need to what I do at work everyday. My expertise is primarily in automation, infrastructure, and cloud computing. Some of the things I regularly use include: Python, Go, Docker, Kubernetes, Terraform, and AWS. More details on my professional experience can be found [here](https://www.linkedin.com/in/jasonkovalski). I work on personal [projects](https://github.com/jasonpkovalski) too.
 
-Index funds are boring. I actively invest in individual stocks, and I use Robinhood for my brokerage account. Let's both get a free [stock](https://join.robinhood.com/jasonk687). I'm slowly working my way up to the 3 comma club.
+I also enjoy investing, competitive Smash Bros., and strength training. I mostly [tweet](https://twitter.com/grim_ssbu) about Smash, and I occasionally [post](https://www.instagram.com/jk1.618/) lifting videos when I'm feeling strong and/or big.
