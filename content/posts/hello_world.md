@@ -1,7 +1,8 @@
 ---
-title: "hello world"
-date: "2019-12-08"
-tags: ["general"]
+title: hello world
+date: 2019-12-08
+tags: [ general ]
+keywords: [ blog, technology, programming, software engineering, finance, investing, fitness, eSports ]
 ---
 
 After years of talking about starting a blog, here it finally is. This is a personal blog, and I want to use it to share my knowledge and excitement with as many people as possible.
