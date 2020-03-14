@@ -1,2 +1,2 @@
 # bloggo
-personal blog
+personal landing page
